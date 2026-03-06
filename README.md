@@ -83,7 +83,7 @@
 ### 💡 Currently Exploring
 
 - 🔬 Agent 长期记忆与跨 Session 状态管理
-- Context上下文工程的最佳实践
+- 🧩 Context上下文工程的最佳实践
 - 🧪 轻量级 LLM 微调（LoRA / QLoRA）在垂直场景的落地
 - 🌐 MCP (Model Context Protocol) 生态与 Agent 工具链扩展
 
