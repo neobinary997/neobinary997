@@ -1,0 +1,82 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B18"/>
+      <stop offset="0.48" stop-color="#12152B"/>
+      <stop offset="1" stop-color="#0A1020"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="250" y1="50" x2="930" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3DDCFF"/>
+      <stop offset="0.5" stop-color="#8B6CFF"/>
+      <stop offset="1" stop-color="#FF5D9E"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientTransform="translate(215 70) rotate(38) scale(350 230)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1BD8FF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#1BD8FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPink" cx="0" cy="0" r="1" gradientTransform="translate(1010 320) rotate(-145) scale(400 250)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B34EFF" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#B34EFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="32"/>
+    </filter>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#000000" flood-opacity="0.38"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="380" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="28" fill="url(#glowCyan)"/>
+  <rect width="1200" height="380" rx="28" fill="url(#glowPink)"/>
+
+  <g opacity="0.22">
+    <path d="M0 92H1200M0 188H1200M0 284H1200" stroke="#6E7AA5" stroke-width="0.7"/>
+    <path d="M120 0V380M312 0V380M504 0V380M696 0V380M888 0V380M1080 0V380" stroke="#6E7AA5" stroke-width="0.7"/>
+  </g>
+
+  <circle cx="141" cy="87" r="58" fill="#1BD8FF" fill-opacity="0.14" filter="url(#blur)"/>
+  <circle cx="1070" cy="304" r="80" fill="#AF52FF" fill-opacity="0.18" filter="url(#blur)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="72" y="66" width="82" height="82" rx="24" fill="#11172D" stroke="url(#accent)" stroke-width="2"/>
+    <path d="M94 124V90L132 124V90" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="190" y="105" fill="#8D99BC" font-size="16" font-weight="700" letter-spacing="4">HELLO, I'M</text>
+    <text x="190" y="185" fill="url(#accent)" font-size="88" font-weight="800" letter-spacing="-4">NEO</text>
+    <text x="194" y="230" fill="#F5F7FF" font-size="23" font-weight="650" letter-spacing="0.5">AGENTIC FULL-STACK ENGINEER</text>
+    <text x="194" y="270" fill="#9EA8C8" font-size="15" font-weight="450">From product requirements to reliable production systems.</text>
+
+    <g transform="translate(194 302)">
+      <rect width="123" height="34" rx="17" fill="#24D6A1" fill-opacity="0.13" stroke="#24D6A1" stroke-opacity="0.55"/>
+      <circle cx="18" cy="17" r="4" fill="#24D6A1"/>
+      <text x="31" y="22" fill="#81F0CF" font-size="12" font-weight="700" letter-spacing="1">AVAILABLE</text>
+    </g>
+    <g transform="translate(331 302)">
+      <rect width="247" height="34" rx="17" fill="#8B6CFF" fill-opacity="0.13" stroke="#8B6CFF" stroke-opacity="0.55"/>
+      <text x="20" y="22" fill="#C2B5FF" font-size="12" font-weight="700" letter-spacing="1">DESIGN · BUILD · SHIP · OPERATE</text>
+    </g>
+  </g>
+
+  <g opacity="0.95">
+    <rect x="892" y="62" width="238" height="258" rx="24" fill="#0E1428" fill-opacity="0.8" stroke="#495275" stroke-opacity="0.55"/>
+    <circle cx="920" cy="90" r="5" fill="#FF5D8F"/>
+    <circle cx="938" cy="90" r="5" fill="#FFD166"/>
+    <circle cx="956" cy="90" r="5" fill="#24D6A1"/>
+    <path d="M914 116H1108" stroke="#495275" stroke-opacity="0.55"/>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">
+      <text x="916" y="146" fill="#6D789C">$</text>
+      <text x="934" y="146" fill="#DCE2F7">neo --capabilities</text>
+      <text x="916" y="178" fill="#24D6A1">✓</text><text x="939" y="178" fill="#9EA8C8">product thinking</text>
+      <text x="916" y="208" fill="#24D6A1">✓</text><text x="939" y="208" fill="#9EA8C8">full-stack build</text>
+      <text x="916" y="238" fill="#24D6A1">✓</text><text x="939" y="238" fill="#9EA8C8">agentic workflow</text>
+      <text x="916" y="268" fill="#24D6A1">✓</text><text x="939" y="268" fill="#9EA8C8">production delivery</text>
+      <rect x="916" y="286" width="8" height="16" rx="2" fill="#8B6CFF"/>
+    </g>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="378.5" rx="27.25" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="1.5"/>
+</svg>
