@@ -56,6 +56,31 @@ Environment setup, CI/CD, containerization, deployment, observability, troublesh
 </tr>
 </table>
 
+## Business domain experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ Retail & High-Traffic Commerce
+
+**What I did:** Delivered retail e-commerce systems through multiple major C-end promotion events, working in traffic- and order-peak scenarios where availability and response speed were critical.
+
+**Result:** Supported time-sensitive campaign delivery and built hands-on experience in capacity planning, critical-path protection, monitoring, and rapid incident response.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Cross-Border Commerce & OMS
+
+**What I did:** Helped redesign the company's OMS and established a centralized Order Exception Center for complex cross-border order workflows.
+
+**Result:** Clarified the order lifecycle, centralized scattered exception handling into a visible and traceable closed loop, and improved processing efficiency and operational control.
+
+</td>
+</tr>
+</table>
+
 ## Delivery pipeline
 
 <table>
