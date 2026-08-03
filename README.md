@@ -12,7 +12,7 @@
 
 **Agent 全栈开发工程师｜独立完成需求分析、架构设计、全栈开发、部署上线与持续运维**
 
-[About](#about-me) · [Capabilities](#what-i-build) · [Stack](#technology-stack) · [Work](#selected-work) · [Contact](#lets-build-something)
+[About](#about-me) · [Capabilities](#what-i-build) · [Stack](#technology-stack) · [Contact](#lets-build-something)
 
 </div>
 
@@ -128,29 +128,6 @@ Environment setup, CI/CD, containerization, deployment, observability, troublesh
 ![Observability](https://img.shields.io/badge/Observability-FF5D8F?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
-
-## Selected work
-
-<table>
-<tr>
-<td width="72%" valign="top">
-
-### Quill
-
-**Ultra-minimalist macOS recording + transcription.** A focused desktop product exploring a low-friction workflow from audio capture to usable text.
-
-`macOS` `Recording` `Transcription` `Product Engineering`
-
-</td>
-<td width="28%" align="center" valign="middle">
-
-**PRIVATE PROJECT**
-
-Case study available during interviews or collaboration discussions.
-
-</td>
-</tr>
-</table>
 
 ## How I work
 
