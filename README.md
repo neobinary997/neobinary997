@@ -4,15 +4,15 @@
 
 <br />
 
-[![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-15C39A?style=for-the-badge&labelColor=0B1020)](https://github.com/neobinary997)
-[![Commercial Collaboration](https://img.shields.io/badge/COMMERCIAL_COLLABORATION-7C5CFC?style=for-the-badge&labelColor=0B1020)](https://github.com/neobinary997/neobinary997/issues/new)
+[![Agent Engineering Notes](https://img.shields.io/badge/AGENT_ENGINEERING_NOTES-15C39A?style=for-the-badge&labelColor=0B1020)](https://neobinary997.github.io)
 [![End-to-End Delivery](https://img.shields.io/badge/END--TO--END_DELIVERY-FF5D8F?style=for-the-badge&labelColor=0B1020)](#delivery-pipeline)
+[![Commercial Collaboration](https://img.shields.io/badge/COMMERCIAL_COLLABORATION-7C5CFC?style=for-the-badge&labelColor=0B1020)](https://github.com/neobinary997/neobinary997/issues/new)
 
-### I turn product ideas into reliable software — from requirements to production.
+### I turn complex business goals into reliable Agent products and production systems.
 
-**Agent 全栈开发工程师｜独立完成需求分析、架构设计、全栈开发、部署上线与持续运维**
+**Agent 全栈工程师｜从业务建模、架构与开发，到评测、可观测性和生产运维**
 
-[About](#about-me) · [Capabilities](#what-i-build) · [Stack](#technology-stack) · [Contact](#lets-build-something)
+[About](#about-me) · [Proof](#selected-proof-of-work) · [Writing](https://neobinary997.github.io) · [Contact](#lets-build-something)
 
 </div>
 
@@ -20,13 +20,15 @@
 
 ## About me
 
-I am an **Agentic Full-Stack Engineer** who takes full ownership of product delivery. I work across product thinking, frontend, backend, automation, infrastructure, and release quality — using AI agents to accelerate execution while keeping engineering judgment in the loop.
+I am an **Agentic Full-Stack Engineer** focused on turning complex business workflows into maintainable production systems. My work connects domain modeling, full-stack delivery, AI agents, evaluation, observability, and operations.
 
 ```text
 Business goal  →  Product scope  →  Architecture  →  Build  →  Ship  →  Operate
 ```
 
 My focus is not simply writing code. It is delivering a maintainable product that solves the right problem and runs reliably in production.
+
+My differentiator is the intersection of **Agent engineering**, **end-to-end delivery**, and **commerce domain experience** — especially order workflows, exception handling, high-traffic scenarios, and production reliability.
 
 ## What I build
 
@@ -55,6 +57,16 @@ Environment setup, CI/CD, containerization, deployment, observability, troublesh
 </td>
 </tr>
 </table>
+
+## Selected proof of work
+
+| Work | What it demonstrates |
+|---|---|
+| [Neo's Agent Engineering Notes](https://neobinary997.github.io) | Original engineering notes on Agent architecture, tool contracts, evaluation, observability, and production operations |
+| [Agent minimum loop](https://neobinary997.github.io/posts/agent-loop-tools-and-guardrails) | A production-oriented breakdown of models, tools, guardrails, stopping conditions, and human escalation |
+| [Blog source](https://github.com/neobinary997/neobinary997.github.io) | A public VitePress knowledge system with structured categories, RSS, sitemap, local search, and automated deployment |
+
+I am gradually publishing anonymized engineering case studies focused on constraints, decisions, measurable outcomes where publishable, and lessons learned — while respecting confidentiality.
 
 ## Business domain experience
 
@@ -143,9 +155,10 @@ Environment setup, CI/CD, containerization, deployment, observability, troublesh
 
 ### Have a role, product idea, or technical challenge?
 
-I am open to **full-stack / platform engineering roles**, **AI agent products**, **technical consulting**, and **end-to-end commercial delivery**.
+I am open to **Agent engineering**, **full-stack / platform engineering**, **technical consulting**, and **end-to-end commercial delivery**.
 
 [![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-7C5CFC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neobinary997/neobinary997/issues/new)
+[![Read my writing](https://img.shields.io/badge/READ_MY_WRITING-15C39A?style=for-the-badge&logo=rss&logoColor=white)](https://neobinary997.github.io)
 [![Explore my GitHub](https://img.shields.io/badge/EXPLORE_MY_GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neobinary997?tab=repositories)
 
 <br />
